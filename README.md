@@ -1,0 +1,2 @@
+# WindowsForensicsTool
+Windows取证集成工具，能够对Windows指定路径下现场证据以及浏览器SQLite记录进行实时监控，对注册表与监控日志进行查找，并借助chatGPT实现简单分析
